@@ -1,0 +1,29 @@
+.anticon-google-square{
+  font-size: 27px;
+  color: rgb(58, 58, 3);
+}
+
+.anticon-facebook{
+  font-size: 27px;
+  color: blue;
+}
+
+.pt-20{
+  padding-top: 20px;
+}
+
+.ant-card-body{
+  text-align: center;
+}
+
+.fs-12{
+  font-size: 12px;
+}
+
+.pl-15{
+  padding-left: 15px;
+}
+
+.ant-card-body {
+  padding: 8px 24px 8px 24px;
+}

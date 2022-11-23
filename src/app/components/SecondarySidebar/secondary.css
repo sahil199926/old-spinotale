@@ -1,0 +1,12 @@
+.rdrCalendarWrapper {
+  color: #000000;
+  font-size: 9px;
+}
+.rdrDefinedRangesWrapper {
+  font-size: 9px;
+  width: 170px;
+}
+
+.rdrMonthAndYearWrapper {
+  height: 30px;
+}

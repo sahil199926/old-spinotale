@@ -1,0 +1,82 @@
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;
+}
+
+.danger{
+  color: red;
+}
+
+.pb-30{
+padding-bottom: 30px;
+} 
+
+.pt-10{
+  padding-top: 10px;
+}
+
+.pt-30{
+padding-top: 30px;
+}
+.pt-20{
+  padding-bottom: 20px;
+  }
+.over{
+  position: absolute;
+  right: -10px;
+  top: -17px;
+}
+
+.over-edit{
+  top: -16px;
+  position: absolute;
+  right: 13px;
+}
+
+.over-view{
+  top: -16px;
+  position: absolute;
+  right: 40px;
+
+}
+
+.update{
+  position: absolute;
+  color: #fff;
+  background: green;
+  border-radius: 3px;
+  font-size: 13px;
+  float: right;
+  margin-left: 10px;
+  padding: 4px 8px;
+  border-radius: 18px;
+}
+
+.pointer{
+  cursor: pointer;
+}
+.inputClassName{
+  width: 90%;
+}
+.rl{
+  position: relative;
+}
+
+.blue{
+  color: #1890ff;
+}
+.over-top{
+  position: absolute;
+  right: -33px;
+  top: -16px;
+}
+
+.rl-top{
+  position: relative;
+}
+.ant-list-bordered .ant-list-item {
+  padding-right: 40px;
+  padding-left: 10px;
+}

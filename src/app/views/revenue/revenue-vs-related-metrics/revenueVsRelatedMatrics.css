@@ -1,0 +1,29 @@
+.center{
+  text-align: center;
+}
+.right{
+  text-align: right;;
+  text-align: right;
+}
+.ant-segmented{
+  background-color: black;;
+  color: white;
+}
+.pl-15{
+  padding-left: 15px;
+}
+.red
+{
+  color: red;
+}
+.green{
+  color: green;
+}
+
+.warning{
+  color: #f78282;
+}
+
+.ant-popover-inner-content {
+  width: 500px;
+}
