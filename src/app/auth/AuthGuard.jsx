@@ -30,7 +30,7 @@ const AuthGuard = ({ children }) => {
         user,
         routes
     )
-    let authenticated =true|| isAuthenticated && isUserRoleAuthenticated
+    let authenticated = isAuthenticated && isUserRoleAuthenticated
 
     // IF YOU NEED ROLE BASED AUTHENTICATION,
     // UNCOMMENT ABOVE TWO LINES, getUserRoleAuthStatus METHOD AND user VARIABLE
